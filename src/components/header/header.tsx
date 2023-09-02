@@ -8,7 +8,7 @@ export default component$(() => {
         <div class="hero-content flex-col lg:flex-row-reverse">
           <img
             src={bg}
-            class="max-w-sm rounded-lg shadow-2xl"
+            class="max-w-lg"
             alt="header-bg"
             height={800}
             width={800}

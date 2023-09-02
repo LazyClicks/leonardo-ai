@@ -8,7 +8,7 @@ export default component$(() => {
           <a class="btn btn-ghost normal-case text-xl">Leonardo.Ai</a>
         </div>
         <div class="flex-none">
-          <button class="btn btn-primary rounded-full capitalize text-info font-neov">
+          <button class="btn btn-primary rounded-full capitalize font-neov w-32 ">
             Register
           </button>
         </div>
